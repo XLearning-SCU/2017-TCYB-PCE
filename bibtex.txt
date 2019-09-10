@@ -1,0 +1,23 @@
+@article{Peng2017:Automatic_full,
+  author={Xi Peng and Jiwen Lu and Zhang Yi and Yan Rui}, 
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Automatic Subspace Learning via Principal Coefficients Embedding}, 
+  year={2017}, 
+  volume={47}, 
+  number={11}, 
+  pages={3583--3596}, 
+  doi={DOI:10.1109/TCYB.2016.2572306}, 
+  ISSN={2168-2267}, 
+  month={Nov.},}
+
+@article{Peng2017:Automatic_abbv,
+  author={Xi Peng and Jiwen Lu and Zhang Yi and Yan Rui}, 
+  journal={IEEE Trans. Cybern.}, 
+  title={Automatic Subspace Learning via Principal Coefficients Embedding}, 
+  year={2017}, 
+  volume={47}, 
+  number={11}, 
+  pages={3583--3596}, 
+  doi={DOI:10.1109/TCYB.2016.2572306}, 
+  ISSN={2168-2267}, 
+  month={Nov.},}
